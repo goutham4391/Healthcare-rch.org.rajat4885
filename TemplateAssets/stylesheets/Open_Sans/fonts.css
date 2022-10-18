@@ -1,0 +1,40 @@
+/* 
+ * Custom font pack put together based on Google Web Fonts
+ * http://www.google.com/webfonts#UsePlace:use/Collection:Open+Sans:400italic,400,600,700
+ */
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url('OpenSans-Regular.eot');
+	src: url('OpenSans-Regulard41d.eot?#iefix') 	format('embedded-opentype'),
+		 url('OpenSans-Regular.woff') 			format('woff'),
+		 url('OpenSans-Regular.ttf') 			format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 400;
+	src: url('OpenSans-Italic.eot');
+	src: url('OpenSans-Italicd41d.eot?#iefix') 		format('embedded-opentype'),
+		 url('OpenSans-Italic.woff') 			format('woff'),
+		 url('OpenSans-Italic.ttf') 			format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	src: url('OpenSans-Semibold.eot');
+	src: url('OpenSans-Semiboldd41d.eot?#iefix') 	format('embedded-opentype'),
+		 url('OpenSans-Semibold.woff') 			format('woff'),
+		 url('OpenSans-Semibold.ttf') 			format('truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: url('OpenSans-Bold.eot');
+	src: url('OpenSans-Boldd41d.eot?#iefix') 		format('embedded-opentype'),
+		 url('OpenSans-Bold.woff') 				format('woff'),
+		 url('OpenSans-Bold.ttf') 				format('truetype');
+}
